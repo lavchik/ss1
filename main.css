@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.list{
+    display: flex;
+    list-style:none;
+    justify-content: space-around;
+}
+.item{
+    color: rgb(0, 0, 0);
+font-size: 32px;
+font-weight: 700;
+}
+.header{
+    padding-top: 76px;
+}
+.hero{
+    padding-top: 128px;
+}
+.title{
+    color: rgb(0, 0, 0);
+font-size: 64px;
+font-weight: 700;
+text-align: center;
+}
+.bola{
+    width: 558px;
+    height:452px;
+    background: rgb(255, 0, 0);
+    font-size: 100px;
+    text-align: center;
+    margin-left: space-around;
+}
+.ota{
+    display: flex;
+    justify-content: space-around;
+}
+.list2{
+        display: flex;
+        list-style:none;
+        justify-content: space-around;
+    
+}
+.item2{
+   
+        color: rgb(0, 0, 0);
+    font-size: 32px;
+    font-weight: 700;
+}
+.footer{
+    padding-top: 257px;
+}
